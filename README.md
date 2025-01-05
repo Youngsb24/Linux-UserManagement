@@ -17,9 +17,6 @@ Linux CLI
 So the first step is to identify who are you, or who you are signed in as and the location you are in by running these commands "pwd" , "whoami" and follow with the date you started this assignment. This gives a basic understanding of the user you are logged in as and the users location
 
 
-<br>
-<img src=https://imgur.com/UPQKecM.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-</br>
 
 
 <h5>Step 2</h5>
